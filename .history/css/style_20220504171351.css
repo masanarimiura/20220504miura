@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.header-inner {
+  ma
+}
+.header img {
+  width: 100px;
+  margin-left: 20px;
+}

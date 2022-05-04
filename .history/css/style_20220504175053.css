@@ -1,0 +1,31 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.header {
+  width: 100%;
+}
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 20px;
+}
+.header img {
+  width: 100px;
+}
+.header-nav {
+  margin: 10px 20px;
+}
+.header-nav-list {
+  display: flex;
+  justify-content: center;
+}
+.header-nav-item {
+  color: rgb(120, 123, 82);
+}
+.header-nav-item:not(:last-child) {
+  padding-right: 20px;
+}
+.firstview img {
+  width: 60%;
+}

@@ -1,0 +1,13 @@
+a {}
+.header {
+  width: 100%;
+}
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 20px;
+}
+.header img {
+  width: 100px;
+}
+
